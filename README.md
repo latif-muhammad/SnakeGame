@@ -22,13 +22,19 @@ To run the snake game, you need to have the following installed:
 
 ## Getting Started
 
-1. **Navigate to the project directory.**
+1. Clone the repository to your local machine or download the source code as a ZIP file.
+
+```bash
+git clone [https://github.com/your-username/snake-game.git](https://github.com/latif-muhammad/SnakeGame/)
+```
+
+2. **Navigate to the project directory.**
 
     ```bash
     cd snake-game
     ```
 
-2. **Run the game.**
+3. **Run the game.**
 
     ```bash
     python snake_game.py

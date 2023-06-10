@@ -25,7 +25,7 @@ To run the snake game, you need to have the following installed:
 
 ```bash
 git clone https://github.com/your-username/snake-game.git
-
+```bash
 
 2. Navigate to the project directory.
 

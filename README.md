@@ -49,5 +49,5 @@ To run the snake game, you need to have the following installed:
 
 ## Author
 
-- Muhammmad Latif
+- Muhammad Latif
 - GitHub: [GitHub Profile](https://github.com/latif-muhammad)

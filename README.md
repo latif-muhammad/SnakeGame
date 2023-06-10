@@ -1,7 +1,5 @@
 # Snake Game using Python Turtle Module
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 **This is a simple snake game built using the Python Turtle module. The game allows the player to control a snake and eat food to grow longer. The objective of the game is to eat as much food as possible without colliding with the walls or the snake's own body.**
 
 ## Features
@@ -48,3 +46,8 @@ To run the snake game, you need to have the following installed:
 - Avoid colliding with the walls or the snake's own body.
 - The game ends when the snake collides with the walls or itself.
 - Your score will be displayed on the top of the window.
+
+## Author
+
+- Your Muhammmad Latif
+- GitHub: [GitHub Profile](https://github.com/latif-muhammad)

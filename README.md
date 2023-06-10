@@ -29,13 +29,13 @@ To run the snake game, you need to have the following installed:
 2. **Navigate to the project directory.**
 
     ```bash
-    cd snake-game
+    cd SnakeGame
     ```
 
 3. **Run the game.**
 
     ```bash
-    python snake_game.py
+    python main.py
     ```
 
 ## How to Play

@@ -19,23 +19,26 @@ To run the snake game, you need to have the following installed:
 - Python 3.x
 - Turtle module (which comes pre-installed with Python)
 
+
 ## Getting Started
 
-1. Clone the repository to your local machine or download the source code as a ZIP file.
+1. **Navigate to the project directory.**
 
-```bash
-git clone https://github.com/your-username/snake-game.git
-```bash
+    ```bash
+    cd snake-game
+    ```
 
-2. Navigate to the project directory.
+2. **Run the game.**
 
-```bash
-cd snake-game
+    ```bash
+    python snake_game.py
+    ```
 
+## How to Play
 
-3. Run the game.
-
-```bash
-python snake_game.py
-
-
+- Use the arrow keys (Up, Down, Left, Right) to control the snake's movement.
+- The snake will continuously move in the direction of the last arrow key pressed.
+- The objective is to eat the randomly generated food to grow longer.
+- Avoid colliding with the walls or the snake's own body.
+- The game ends when the snake collides with the walls or itself.
+- Your score will be displayed on the terminal.

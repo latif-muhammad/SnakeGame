@@ -23,7 +23,7 @@ To run the snake game, you need to have the following installed:
 1. Clone the repository to your local machine or download the source code as a ZIP file.
 
     ```bash
-    git clone https://github.com/latif-muhammad/SnakeGame
+    git clone https://github.com/latif-muhammad/SnakeGame.git
     ```
 
 2. **Navigate to the project directory.**
